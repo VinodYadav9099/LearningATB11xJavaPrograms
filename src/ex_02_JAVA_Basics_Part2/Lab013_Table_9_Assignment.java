@@ -15,5 +15,7 @@ public class Lab013_Table_9_Assignment {
         System.out.printf("%d x 8 = %d%n", num, num * 8);
         System.out.printf("%d x 9 = %d%n", num, num * 9);
         System.out.printf("%d x 10 = %d%n", num, num * 10);
+
+        System.out.println("Small changes");
     }
 }
