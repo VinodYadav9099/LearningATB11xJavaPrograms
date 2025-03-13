@@ -1,6 +1,6 @@
 package ex_02_JAVA_Basics_Part2;
 
-public class table_9 {
+public class Lab013_Table_9_Assignment {
     public static void main(String[] args) {
         int num = 9; // Table of 9
 
