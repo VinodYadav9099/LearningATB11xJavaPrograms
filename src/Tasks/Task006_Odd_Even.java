@@ -25,7 +25,7 @@ public class Task006_Odd_Even {
         {
             System.out.println("The Entered Number is Odd");
         }
-
+        scanner.close();
 
     }
 }

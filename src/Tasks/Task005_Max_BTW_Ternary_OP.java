@@ -13,5 +13,6 @@ public class Task005_Max_BTW_Ternary_OP {
         //System.out.println("Enter the Second Number");
         int result = num1 > num2 ? num1 : num2 ;
         System.out.println("The Maximum Number is " + result);
+        scanner.close();
     }
 }

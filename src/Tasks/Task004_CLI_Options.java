@@ -16,10 +16,11 @@ public class Task004_CLI_Options {
         System.out.println("Enter your Age");
         int age = scanner.nextInt();
         System.out.println("Enter your Salary");
-        int salary = scanner.nextInt();
+        double salary = scanner.nextDouble();
         System.out.println("Name is: " + name);
         System.out.println("Salary is: " + salary);
         System.out.println("Age is: " + age);
+        scanner.close();
 
     }
 }
