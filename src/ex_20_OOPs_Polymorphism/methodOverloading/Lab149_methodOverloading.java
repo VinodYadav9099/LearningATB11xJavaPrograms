@@ -1,4 +1,4 @@
-package ex_20_Polymorphism.methodOverloading;
+package ex_20_OOPs_Polymorphism.methodOverloading;
 
 public class Lab149_methodOverloading {
     public static void main(String[] args) {

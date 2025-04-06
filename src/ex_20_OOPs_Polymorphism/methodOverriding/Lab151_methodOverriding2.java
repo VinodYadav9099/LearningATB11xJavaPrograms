@@ -1,6 +1,6 @@
-package ex_20_Polymorphism.methodOverriding;
+package ex_20_OOPs_Polymorphism.methodOverriding;
 
-public class Lab150_methodOverriding2 {
+public class Lab151_methodOverriding2 {
     public static void main(String[] args) {
 
         commonToAll c1 = new chromeTC();
