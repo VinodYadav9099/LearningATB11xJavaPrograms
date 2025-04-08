@@ -8,8 +8,8 @@ public class check {
         System.out.println(str1);
 
         StringBuilder sb = new StringBuilder("Hello");
-        sb.append("World");
-        sb.delete(6,10);
+        sb.append("   World");
+        //sb.delete(6,10);
         System.out.println(sb);
 
         Calculator c1 = new Calculator();

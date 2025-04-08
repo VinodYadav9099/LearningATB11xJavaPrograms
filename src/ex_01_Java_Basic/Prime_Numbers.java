@@ -13,7 +13,7 @@ public class Prime_Numbers {
             boolean isPrime = true;
 
             // Check if num is divisible by any number from 2 to num-1
-            for (int i = 2; i <= num / 2; i++) {
+            for (int i = 2; i <= num/2; i++) {
                 if (num % i == 0) {
                     isPrime = false; // num is divisible by i, so it's not prime
                     break;
